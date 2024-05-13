@@ -1,0 +1,19 @@
+{
+  "name": "test-gha-publish-npm",
+  "version": "1.0.0",
+  "description": "A repo to test a workflow that poublishes the package to npm when a release is created",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leanazulyoro/test-gha-publish-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leanazulyoro/test-gha-publish-npm/issues"
+  },
+  "homepage": "https://github.com/leanazulyoro/test-gha-publish-npm#readme"
+}
